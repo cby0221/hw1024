@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\richi\Desktop\HW2\hw428\hw428\main.cpp(38,32): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\richi\Desktop\HW2\hw428\hw428\main.cpp(44,23): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\richi\Desktop\HW2\hw428\hw428\main.cpp(5,15): warning C4101: 'hourly': 未參考的區域變數
+C:\Users\richi\Desktop\HW2\hw428\hw428\main.cpp(5,6): warning C4101: 'manager': 未參考的區域變數
+C:\Users\richi\Desktop\HW2\hw428\hw428\main.cpp(5,34): warning C4101: 'pieceworker': 未參考的區域變數
+C:\Users\richi\Desktop\HW2\hw428\hw428\main.cpp(5,57): warning C4101: 'j': 未參考的區域變數
+C:\Users\richi\Desktop\HW2\hw428\hw428\main.cpp(5,23): warning C4101: 'commision': 未參考的區域變數
+  hw428.vcxproj -> C:\Users\richi\Desktop\HW2\hw428\x64\Debug\hw428.exe

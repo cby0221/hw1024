@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\c_code\HW2\homework2_3.20\homework2_3.20\Main.c(19,23): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  homework2_3.20.vcxproj -> C:\c_code\HW2\homework2_3.20\x64\Debug\homework2_3.20.exe
